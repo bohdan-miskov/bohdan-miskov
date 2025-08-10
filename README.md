@@ -37,6 +37,7 @@ I enjoy learning new things and improving my skills every day.
 Project — online grocery store with product catalog, filters, and modal windows.  
 Built responsive layout, integrated localStorage, and helped with API logic.  
 🔗 [GitHub](https://github.com/bohdan-miskov/project-food-boutique)
+🔗 [Live site](https://bohdan-miskov.github.io/project-food-boutique/)
 
 ---
 
@@ -46,6 +47,7 @@ Built responsive layout, integrated localStorage, and helped with API logic.
 Authentication app with registration, login, private routes, and user profile.  
 Used Redux Toolkit, React Router, and Axios for secure user flow.  
 🔗 [GitHub](https://github.com/bohdan-miskov/goit-react-hw-08-ts)
+🔗 [Live site](https://goit-react-hw-08-ts.vercel.app/)
 
 ---
 
@@ -53,7 +55,8 @@ Used Redux Toolkit, React Router, and Axios for secure user flow.
 **Tech:** HTML, CSS, JS, Vite, Swiper.js, Accordion.js, Axios  
 **Role:** Front-end Developer, Scrum Master 
 Single-page portfolio with animated gallery, contact form, and theme switcher.  
-Integrated Swiper.js and Accordion.js for interactive sections.  
+Integrated Swiper.js and Accordion.js for interactive sections. 
+🔗 [GitHub](https://illia-lukianov/team-projects-js-united)
 🔗 [Live site](https://illia-lukianov.github.io/team-projects-js-united/)
 
 ---
@@ -62,7 +65,8 @@ Integrated Swiper.js and Accordion.js for interactive sections.
 **Tech:** HTML, CSS, JS, Vite  
 **Role:** Front-end Developer, Scrum Master  
 One-page site promoting healthy eating.  
-Built mobile navigation, custom slider, and led agile process.  
+Built mobile navigation, custom slider, and led agile process. 
+🔗 [GitHub](https://illia-lukianov/team-project-united-10)
 🔗 [Live site](https://illia-lukianov.github.io/team-project-united-10/)
 
 ---
