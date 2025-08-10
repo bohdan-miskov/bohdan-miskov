@@ -28,7 +28,7 @@ I enjoy learning new things and improving my skills every day.
 ## 📦 My Projects
 
 ### 🥗 Food Boutique  
-**Tech:** HTML, CSS, JS, Parcel, REST API  
+**Tech:** HTML, CSS, JS, Vite, REST API  
 **Role:** Front-end Developer  
 Project — online grocery store with product catalog, filters, and modal windows.  
 Built responsive layout, integrated localStorage, and helped with API logic.  
