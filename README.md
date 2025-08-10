@@ -27,7 +27,7 @@ I enjoy learning new things and improving my skills every day.
 
 ## 📦 My Projects
 
-### 🧾 Food Boutique  
+### 🥗 Food Boutique  
 **Tech:** HTML, CSS, JS, Parcel, REST API  
 **Role:** Front-end Developer  
 Project — online grocery store with product catalog, filters, and modal windows.  
@@ -37,7 +37,7 @@ Built responsive layout, integrated localStorage, and helped with API logic.
 
 ---
 
-### 🔐 React Auth App  
+### 📱 React Phone book App  
 **Tech:** React, Redux Toolkit, Vite, REST API  
 **Role:** Front-end Developer  
 Authentication app with registration, login, private routes, and user profile.  
@@ -57,7 +57,7 @@ Integrated Swiper.js and Accordion.js for interactive sections.
 
 ---
 
-### 🥗 GreenHarvest (Team project)  
+### 🍏 GreenHarvest (Team project)  
 **Tech:** HTML, CSS, JS, Vite  
 **Role:** Front-end Developer, Scrum Master  
 One-page site promoting healthy eating.  
@@ -73,6 +73,8 @@ Built mobile navigation, custom slider, and led agile process.
 RESTful API for managing contacts with authentication and validation.  
 Includes CRUD operations, JWT, and image upload.  
 🔗 <a href="https://github.com/bohdan-miskov/nodejs-hw-mongodb/tree/main" target="_blank" rel="noopener noreferrer">GitHub</a>
+🔗 <a href="https://nodejs-hw-mongodb-04ay.onrender.com" target="_blank" rel="noopener noreferrer">Live server</a>
+🔗 <a href="https://nodejs-hw-mongodb-04ay.onrender.com/api-docs/" target="_blank" rel="noopener noreferrer">Documentation</a>
 
 ---
 
