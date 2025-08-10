@@ -3,10 +3,6 @@
 I'm a **junior frontend developer** from Ukraine. I like writing clean code, building useful tools, and working in friendly teams.  
 I enjoy learning new things and improving my skills every day.
 
-![Profile Views](https://komarev.com/ghpvc/?username=bohdan-miskov&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/bohdan-miskov?label=Followers&style=social)
-![Top Language](https://img.shields.io/github/languages/top/bohdan-miskov/invoice-generator)
-
 ---
 
 ## 🧠 About Me
@@ -36,8 +32,8 @@ I enjoy learning new things and improving my skills every day.
 **Role:** Front-end Developer  
 Project — online grocery store with product catalog, filters, and modal windows.  
 Built responsive layout, integrated localStorage, and helped with API logic.  
-🔗 [GitHub](https://github.com/bohdan-miskov/project-food-boutique)
-🔗 [Live site](https://bohdan-miskov.github.io/project-food-boutique/)
+🔗 <a href="https://github.com/bohdan-miskov/project-food-boutique" target="_blank" rel="noopener noreferrer">GitHub</a>  
+🔗 <a href="https://bohdan-miskov.github.io/project-food-boutique/" target="_blank" rel="noopener noreferrer">Live site</a>
 
 ---
 
@@ -46,28 +42,28 @@ Built responsive layout, integrated localStorage, and helped with API logic.
 **Role:** Front-end Developer  
 Authentication app with registration, login, private routes, and user profile.  
 Used Redux Toolkit, React Router, and Axios for secure user flow.  
-🔗 [GitHub](https://github.com/bohdan-miskov/goit-react-hw-08-ts)
-🔗 [Live site](https://goit-react-hw-08-ts.vercel.app/)
+🔗 <a href="https://github.com/bohdan-miskov/goit-react-hw-08-ts" target="_blank" rel="noopener noreferrer">GitHub</a>  
+🔗 <a href="https://goit-react-hw-08-ts.vercel.app/" target="_blank" rel="noopener noreferrer">Live site</a>
 
 ---
 
-### 🧑‍💼 Portfolio Site (Team project)
+### 🧑‍💼 Portfolio Site (Team project)  
 **Tech:** HTML, CSS, JS, Vite, Swiper.js, Accordion.js, Axios  
-**Role:** Front-end Developer, Scrum Master 
+**Role:** Front-end Developer, Scrum Master  
 Single-page portfolio with animated gallery, contact form, and theme switcher.  
-Integrated Swiper.js and Accordion.js for interactive sections. 
-🔗 [GitHub](https://illia-lukianov/team-projects-js-united)
-🔗 [Live site](https://illia-lukianov.github.io/team-projects-js-united/)
+Integrated Swiper.js and Accordion.js for interactive sections.  
+🔗 <a href="https://github.com/illia-lukianov/team-projects-js-united" target="_blank" rel="noopener noreferrer">GitHub</a>  
+🔗 <a href="https://illia-lukianov.github.io/team-projects-js-united/" target="_blank" rel="noopener noreferrer">Live site</a>
 
 ---
 
-### 🥗 GreenHarvest (Team project)
+### 🥗 GreenHarvest (Team project)  
 **Tech:** HTML, CSS, JS, Vite  
 **Role:** Front-end Developer, Scrum Master  
 One-page site promoting healthy eating.  
-Built mobile navigation, custom slider, and led agile process. 
-🔗 [GitHub](https://illia-lukianov/team-project-united-10)
-🔗 [Live site](https://illia-lukianov.github.io/team-project-united-10/)
+Built mobile navigation, custom slider, and led agile process.  
+🔗 <a href="https://github.com/illia-lukianov/team-project-united-10" target="_blank" rel="noopener noreferrer">GitHub</a>  
+🔗 <a href="https://illia-lukianov.github.io/team-project-united-10/" target="_blank" rel="noopener noreferrer">Live site</a>
 
 ---
 
@@ -76,7 +72,7 @@ Built mobile navigation, custom slider, and led agile process.
 **Role:** Back-end Developer  
 RESTful API for managing contacts with authentication and validation.  
 Includes CRUD operations, JWT, and image upload.  
-🔗 [GitHub](https://github.com/bohdan-miskov/nodejs-hw-mongodb/tree/main)
+🔗 <a href="https://github.com/bohdan-miskov/nodejs-hw-mongodb/tree/main" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ---
 
@@ -91,20 +87,21 @@ Includes CRUD operations, JWT, and image upload.
 ## 📫 Contact Me
 
 - 📧 Email: [bohdanmiskov07@gmail.com](mailto:bohdanmiskov07@gmail.com)  
-- 💬 Telegram: [@bosheg](https://t.me/bosheg)  
-- 🧑‍💻 Linkedin: [bohdan-miskov](www.linkedin.com/in/bohdan-miskov)
+- 💬 Telegram: <a href="https://t.me/bosheg" target="_blank" rel="noopener noreferrer">@bosheg</a>  
+- 🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/bohdan-miskov" target="_blank" rel="noopener noreferrer">bohdan-miskov</a>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Bohdan's GitHub Streak](https://streak-stats.demolab.com?user=bohdan-miskov&theme=tokyonight&hide_border=false)
-![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bohdan-miskov&show_icons=true&theme=tokyonight&hide_border=false)
+![Bohdan's GitHub Streak](https://streak-stats.demolab.com?user=bohdan-miskov&theme=tokyonight&hide_border=false)  
+![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bohdan-miskov&show_icons=true&theme=tokyonight&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-miskov&layout=compact&theme=tokyonight&hide_border=false)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=2&color=1)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=2&color=1" target="_blank" rel="noopener noreferrer">
+  <img src="https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=2&color=1" alt="Profile Visit Counter">
+</a>
 
 > “Good code is easy to read and easy to change.”
