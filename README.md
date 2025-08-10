@@ -96,4 +96,15 @@ Includes CRUD operations, JWT, and image upload.
 
 ---
 
+## 📊 GitHub Stats
+
+![Bohdan's GitHub Streak](https://streak-stats.demolab.com?user=bohdan-miskov&theme=tokyonight&hide_border=false)
+![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bohdan-miskov&show_icons=true&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-miskov&layout=compact&theme=tokyonight&hide_border=false)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
 > “Good code is easy to read and easy to change.”
