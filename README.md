@@ -100,8 +100,4 @@ Includes CRUD operations, JWT, and image upload.
 
 ---
 
-<a href="https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=2&color=1" target="_blank" rel="noopener noreferrer">
-  <img src="https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=2&color=1" alt="Profile Visit Counter">
-</a>
-
 > “Good code is easy to read and easy to change.”
