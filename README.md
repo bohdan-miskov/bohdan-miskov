@@ -96,7 +96,7 @@ Includes CRUD operations, JWT, and image upload.
 
 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=bohdan-miskov&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=bohdan-miskov&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 🔝 Top Contributed Repo
 
