@@ -94,6 +94,17 @@ Includes CRUD operations, JWT, and image upload.
 
 ---
 
+🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=bohdan-miskov&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=bohdan-miskov&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=1&color=1)](https://visitcount.itsvg.in)
+
+
 ## 📊 GitHub Stats
 
 ![Bohdan's GitHub Streak](https://streak-stats.demolab.com?user=bohdan-miskov&theme=tokyonight&hide_border=false)  
