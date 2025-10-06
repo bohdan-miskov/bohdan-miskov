@@ -78,14 +78,6 @@ Includes CRUD operations, JWT, and image upload.
 
 ---
 
-## 🌱 What I'm Learning Now
-
-- Better project structure for teams  
-- Advanced React patterns  
-- How to give good feedback and handle errors well
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: [bohdanmiskov07@gmail.com](mailto:bohdanmiskov07@gmail.com)  
@@ -93,17 +85,6 @@ Includes CRUD operations, JWT, and image upload.
 - 🧑‍💻 LinkedIn: <a href="https://www.linkedin.com/in/bohdan-miskov" target="_blank" rel="noopener noreferrer">bohdan-miskov</a>
 
 ---
-
-🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=bohdan-miskov&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=bohdan-miskov&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=bohdan-miskov&icon=1&color=1)](https://visitcount.itsvg.in)
-
 
 ## 📊 GitHub Stats
 
