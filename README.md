@@ -49,4 +49,4 @@ I enjoy learning new things and improving my skills every day.
 
 ---
 
-> “Good code is easy to read and easy to change.”
+ > “Good code is easy to read and easy to change.”
