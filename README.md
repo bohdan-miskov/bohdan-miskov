@@ -44,8 +44,8 @@ I enjoy learning new things and improving my skills every day.
 ## 📊 GitHub Stats
 
 ![Bohdan's GitHub Streak](https://streak-stats.demolab.com?user=bohdan-miskov&theme=tokyonight&hide_border=false)  
-![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bohdan-miskov&show_icons=true&theme=tokyonight&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-miskov&layout=compact&theme=tokyonight&hide_border=false)
+![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bohdan-miskov&show_icons=true&theme=tokyonight&hide_border=false&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-miskov&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800)
 
 ---
 
